@@ -1,9 +1,9 @@
-# Mask R-CNN 적용 과제 1번 오픈소스 201911977_이세훈(matterport님 꺼)
+# Mask R-CNN 적용 과제 1번 오픈소스 201911977_이세훈(matterport님 꺼)😿
 https://github.com/matterport/Mask_RCNN
 
 requirements.txt에 보시면 mask R-CNN 실행을 위해 모듈버전을 수정해서 작성했습니다.
 
-# 분할 성공 사진1
+# 분할 성공 사진
 ![분할 성공 사진1 ](Mask_RCNN/assets/splash1.png)
 
 # 분할 성공 사진2
