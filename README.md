@@ -9,6 +9,9 @@ requirements.txt에 보시면 mask R-CNN 실행을 위해 모듈버전을 수정
 # 분할 성공 사진2
 ![분할 성공 사진2 ](Mask_RCNN/assets/1.png)
 
+# 분할 성공 사진3
+![분할 성공 사진3 ](Mask_RCNN/assets/3.png)
+
 ## 실행 방법 (python=3.7.16)
 1. 레포지토리 복제해주세요
 2. 설치해주세요
