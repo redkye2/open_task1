@@ -1,7 +1,20 @@
 # Mask R-CNN 적용 과제 1번 오픈소스 201911977_이세훈(matterport님 꺼)😿
 https://github.com/matterport/Mask_RCNN
 
-requirements.txt에 보시면 mask R-CNN 실행을 위해 모듈버전을 수정해서 작성했습니다.
+requirements.txt에 보시면 아래와 같이 mask R-CNN 실행을 위해 모듈버전을 수정해서 작성했습니다.
+
+opencv-python==4.1.2.30
+scikit-image==0.16.2
+tensorboard==1.15.0 
+tensorflow==1.15.0 
+tensorflow-estimator==1.15.1 
+tensorflow-gpu==1.15.2 
+tensorflow-gpu-estimator==2.1.0 
+Keras==2.1.5 
+Keras-Applications==1.0.8 
+Keras-Preprocessing==1.1.0
+protobuf==3.19.0
+h5py==2.10.0
 
 # 분할 성공 사진
 ![분할 성공 사진1 ](Mask_RCNN/assets/splash1.png)
